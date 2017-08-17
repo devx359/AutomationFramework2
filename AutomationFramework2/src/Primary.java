@@ -13,7 +13,7 @@ public class Primary {
 	//	System.setProperty("webdriver.gecko.driver", "E:\\softwares\\selenium\\geckodriver.exe");
 		
 		Helper ob = new Helper();
-		
+		System.out.println("Just fooling around for git");
 		//ob.login_to_net("pk_sur","789");
 		//ob.google_search("boro baal");
 		//ob.dropdown(); //exlpixit ,fluent,implicit implemented here 
