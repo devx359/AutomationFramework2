@@ -9,7 +9,7 @@ public class Primary {
 	public static void main(String[] args) throws InterruptedException {
 		
 		
-		System.setProperty("webdriver.chrome.driver", "E:\\softwares\\selenium\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "F:\\softwares\\selenium\\chromedriver.exe");
 	//	System.setProperty("webdriver.gecko.driver", "E:\\softwares\\selenium\\geckodriver.exe");
 		
 		Helper ob = new Helper();
